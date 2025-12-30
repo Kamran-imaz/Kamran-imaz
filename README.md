@@ -12,7 +12,7 @@
   <ul>
     <li>👀 I’m interested in Data Engineering, Machine Learning</li> <br>
     <li>🌱 I’m currently contributing on Open Source Projects</li> <br>
-    <li>💞️ I’m here to leverage my Skills</li> <br>
+    <li>Let's Build a Software</li> <br>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/Kamran-imaz" target="_blank">https://github.com/Kamran-imaz</a></li> <br>
     <li>📫 Reach out to me through <a href="mailto: kamranimaz.professional@gmail.com " target="_blank">Email</a> or <a href="https://www.linkedin.com/in/kamran-imaz-320826220" target="_blank">LinkedIn</a></li>
   </ul>
